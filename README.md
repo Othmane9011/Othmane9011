@@ -42,7 +42,6 @@
 - **Systèmes en C** — `simple_shell` (interpréteur + manpage), `binary_trees` (hauteur/équilibre/parcours), `monty` (LIFO/FIFO, opcodes)  
 - **AirBnB clone (learning)** — Python · console, POO, stockage JSON
 
-> 💡 Astuce : “Pin” ces dépôts sur ton profil (bouton **Customize your pins** sur ta page GitHub).
 
 ---
 
