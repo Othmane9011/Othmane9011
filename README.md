@@ -59,5 +59,4 @@
 ### 🔗 Liens
 - Portfolio : https://othmane-portfolio.vercel.app  
 - GitHub : https://github.com/Othmane9011  
-- LinkedIn : https://www.linkedin.com/in/othmane-bengharbi-05248324b
 
